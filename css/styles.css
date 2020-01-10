@@ -31,6 +31,15 @@ a {
     width: 70%;
     position: center;
   }
+  .img2{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 86%;
+    margin-top: auto;
+    margin-bottom: auto;
+    position: center;
+  }
 body {
   background-color: rgb(10, 10, 10);
   
@@ -40,4 +49,16 @@ body {
 .jumbotron{
   background-color: rgb(10, 10, 10);
   color:rgb(250, 220, 48);
+}
+p{
+  color: whitesmoke;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+}
+.rowimg{
+  float: left;
+  height: auto;
+  width: 150px;
+  margin: 15px;
 }
