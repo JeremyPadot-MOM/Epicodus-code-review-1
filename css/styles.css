@@ -2,15 +2,11 @@ h1{
   text-align:center;
   font-family: abril fatface;
   color: rgb(250, 220, 48);
+
 }
 ul {
   margin: 12px auto;
   padding: 20px 20px;
-
-}
-.bgtop{
-width:100%;
-height:20%;
 }
 li {
   display: inline;
@@ -18,7 +14,7 @@ li {
   padding: 200px 80px;
   font-weight: 200;
   font-family: abril fatface;
-  font-size: medium;
+  font-size: large;
  
 }
 
@@ -37,7 +33,10 @@ a {
   }
 body {
   background-color: rgb(10, 10, 10);
+  
+ 
 }
+
 .jumbotron{
   background-color: rgb(10, 10, 10);
   color:rgb(250, 220, 48);
