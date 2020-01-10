@@ -53,12 +53,22 @@ body {
 p{
   color: whitesmoke;
   text-align: center;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: bree serif;
   font-size: 16px;
+  border:cornflowerblue;
+  border-style: solid;
 }
 .rowimg{
   float: left;
   height: auto;
   width: 150px;
   margin: 15px;
+  
 }
+.rowimg2{
+  float: right;
+  height: auto;
+  width: 150px;
+  margin: 15px;
+}
+
