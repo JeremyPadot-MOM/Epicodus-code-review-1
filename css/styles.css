@@ -2,3 +2,29 @@ h1{
   text-align:center;
   font-family: abril fatface;
 }
+ul {
+  margin: 12px auto;
+  padding: 20px 20px;
+
+
+ 
+}
+
+li {
+  display: inline;
+  text-align: center;
+  padding: 200px 20px;
+  font-weight: 200;
+}
+
+a {
+  text-decoration: none;
+  text-align: center;
+  cursor: pointer;
+}
+img {
+  padding: 0;
+  margin: auto;
+  overflow: hidden;
+  position: relative;
+}
