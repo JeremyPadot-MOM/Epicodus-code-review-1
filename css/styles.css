@@ -65,12 +65,14 @@ p{
   width: 150px;
   margin: 15px;
   
+  
 }
 .rowimg2{
   float: right;
   height: auto;
   width: 150px;
   margin: 15px;
+
 }
 
 h3{
@@ -78,4 +80,14 @@ h3{
   text-align: center;
   font-family: bree serif;
   font-size: 20px;
+  padding: 20px;
+}
+span{
+  color:rgb(54, 230, 171);
+
+}
+h2{
+  font-size:18px;
+  text-align: left;
+  
 }
