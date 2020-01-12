@@ -91,3 +91,8 @@ h2{
   text-align: left;
   
 }
+strong{
+  font-family: bree serif;
+  font-size: 16px;
+  border:rgb(250, 220, 48);
+}
