@@ -53,11 +53,11 @@ body {
 }
 p{
   color: whitesmoke;
-  text-align: center;
+  text-align: left;
   font-family: bree serif;
   font-size: 16px;
-  border:rgb(250, 220, 48);;
-  border-style: solid;
+  /* border:rgb(250, 220, 48);;
+  border-style: solid; */
 }
 .rowimg{
   float: left;
@@ -96,4 +96,27 @@ strong{
   font-family: bree serif;
   font-size: 16px;
   border:rgb(250, 220, 48);
+}
+.border{
+  border:rgb(250, 220, 48);;
+  border-style: solid;
+  padding: 8px;
+}
+.left-list{
+  display: inline;
+  text-align: left;
+  padding: 20px 80px 10px 0px;
+  font-weight: 200;
+  font-family: abril fatface;
+  font-size: large;
+  list-style-type: decimal;
+}
+.left-list a{
+  text-align: left;
+ 
+}
+.left-list li{
+  padding: 0;
+  margin: 0;
+  list-style-type: decimal;
 }
