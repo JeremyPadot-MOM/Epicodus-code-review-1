@@ -17,7 +17,7 @@ _There are links to google fonts in the head_
 
 ## Known Bugs
 
-_Working out border control for p tags and links in projects tab_
+_Images in p borders are intentionally outside the bottom border lines. I liked how they seem 'tacked' on rather than inside the box. left too much empty space._
 
 ## Support and contact details
 
@@ -25,7 +25,7 @@ _contact me via email with suggestions/code/comments jeremy@padot.us_
 
 ## Technologies Used
 
-_html css bootstrap v 3.3.7 google fonts used_
+_Macbook Pro. html css bootstrap v 3.3.7 google fonts used_
 
 ### License
 
