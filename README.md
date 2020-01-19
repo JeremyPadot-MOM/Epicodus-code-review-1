@@ -6,14 +6,18 @@
 
 ## Description
 
-_A landing page for my personal portfolio using html css and bootstrap. Contains links to projects and photos._
+_A landing page for my personal portfolio using html css and bootstrap. Contains links to projects and photos. This is my first friday project for Epicodus._
+gh-pages link:  https://kalepadot.github.io/Epicodus-code-review-1/
 
 ## Setup/Installation Requirements
 
-* _No setup required. Run VSCode with bootstrap v 3.3.7 or view in gh-pages_
-
+_If using gh-pages simply click the clink to view https://kalepadot.github.io/Epicodus-code-review-1/ 
+* _For Devs, open git repository and copy repo link  https://github.com/kalepadot/Epicodus-code-review-1.git_ . In your terminal desktop clone the repo and open in text editor.
+$ git clone *repo link*, $ git cd *to repo*, $ code . (this will open in your text editor) VSCode suggested._
+* You will need to download bootstrap vr 3.3.7 and add to your css file. download from the website adn drag to your folder.  Make sure your link and script are up to date with applied bootstrap 
 
 _There are links to google fonts in the head_
+
 
 ## Known Bugs
 
