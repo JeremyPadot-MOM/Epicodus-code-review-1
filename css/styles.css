@@ -150,3 +150,22 @@ strong{
   font-size: large;
   list-style-type: decimal;
 }
+#who-gif{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 45%;
+  
+}
+#gif2{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 45%;
+}
+#gif3{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
