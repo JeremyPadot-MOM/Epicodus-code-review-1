@@ -1,9 +1,9 @@
-h1{
+h1 {
   text-align:center;
   font-family: abril fatface;
   color: rgb(250, 220, 48);
-
 }
+
 ul {
   margin: 12px auto;
   padding: 20px 20px;
@@ -15,7 +15,6 @@ li {
   font-weight: 200;
   font-family: abril fatface;
   font-size: large;
- 
 }
 
 a {
@@ -24,6 +23,7 @@ a {
   cursor: pointer;
   color: rgb(250, 220, 48);
 }
+
 .img {
     display: block;
     margin-left: auto;
@@ -31,7 +31,8 @@ a {
     width: 70%;
     position: center;
   }
-  .img2{
+
+.img2 {
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -41,17 +42,17 @@ a {
     position: center;
     height: 20%;
   }
+
 body {
   background-color: rgb(10, 10, 10);
-  
- 
 }
 
-.jumbotron{
+.jumbotron {
   background-color: rgb(10, 10, 10);
   color:rgb(250, 220, 48);
 }
-p{
+
+p {
   color: whitesmoke;
   text-align: left;
   font-family: bree serif;
@@ -60,24 +61,22 @@ p{
   border-style: solid; */
   line-height: 1.5;
 }
-.rowimg{
+
+.rowimg {
   float: left;
   height: auto;
   width: 150px;
   margin: 15px;
-  
-  
 }
-.rowimg2{
+
+.rowimg2 {
   float: right;
   height: auto;
   width: 150px;
   margin: 15px;
- 
-  
-
 }
-.rowimg3{
+
+.rowimg3 {
   float: left;
   height: auto;
   width: 240px;
@@ -85,45 +84,44 @@ p{
   padding: 5px;
 }
 
-  .rowimg{
-    float: right;
-    height: auto;
-    width: 150px;
-    margin: 15px;
-    
-    
+.rowimg {
+  float: right;
+  height: auto;
+  width: 150px;
+  margin: 15px;  
   }
 
-
-
-h3{
+h3 {
   color: whitesmoke;
   text-align: center;
   font-family: bree serif;
   font-size: 20px;
   padding: 20px;
 }
-span{
+
+span {
   color:rgb(54, 230, 171);
   text-align: center;
+} 
 
-}
-h2{
+h2 {
   font-size:18px;
   text-align: left;
-  
 }
-strong{
+
+strong {
   font-family: bree serif;
   font-size: 16px;
   border:rgb(250, 220, 48);
 }
-.border{
+
+.border {
   border:rgb(250, 220, 48);;
   border-style: solid;
   padding: 8px;
 }
-.left-list{
+
+.left-list {
   display: inline;
   text-align: left;
   padding: 20px 80px 10px 0px;
@@ -132,16 +130,18 @@ strong{
   font-size: large;
   list-style-type: decimal;
 }
-.left-list a{
+
+.left-list a {
   text-align: left;
- 
 }
-.left-list li{
+
+.left-list li {
   padding: 0;
   margin: 0;
   list-style-type: decimal;
 }
-.right-list{
+
+.right-list {
   display: inline;
   text-align: right;
   padding: 20px 80px 10px 0px;
@@ -150,20 +150,22 @@ strong{
   font-size: large;
   list-style-type: decimal;
 }
-#who-gif{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 45%;
-  
-}
-#gif2{
+
+#who-gif {
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 45%;
 }
-#gif3{
+
+#gif2 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 45%;
+}
+
+#gif3 {
   display: block;
   margin-left: auto;
   margin-right: auto;
